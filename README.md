@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **titouan-joseph/titouan-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="100%"
+         width="45%"
+         src="https://github-readme-stats.vercel.app/api?username=titouan-joseph&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img width="45%"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=titouan-joseph&layout=compact" />
+  </a>
+</p>
