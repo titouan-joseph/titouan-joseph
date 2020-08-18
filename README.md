@@ -24,3 +24,6 @@ Here are some ideas to get you started:
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=titouan-joseph&layout=compact" />
   </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
