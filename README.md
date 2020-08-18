@@ -25,5 +25,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<details>
+ <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</details>
