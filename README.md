@@ -29,19 +29,19 @@ Here are some ideas to get you started:
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 337 Contributions in the year 2020
+> 🏆 337 Contributions in the Year 2020
  > 
 > 📦 17.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public repositories
+> 📜 16 Public Repositories
  > 
-> 🔑 2 Private repositories 
+> 🔑 2 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -66,22 +66,28 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/Paris
+⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    2 hrs 43 mins       █████████████████████████   100.0%
+Other                    3 hrs 40 mins       ████████████████████████░   97.26% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
 
-🔥 Code Editors: 
-Chrome                   2 hrs 43 mins       █████████████████████████   100.0%
+🔥 Editors: 
+Chrome                   3 hrs 40 mins       ████████████████████████░   97.26% 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
+PyCharmCore              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 43 mins       █████████████████████████   100.0%
+Unknown Project          3 hrs 44 mins       ████████████████████████░   99.05% 
+AutoDeployGithubToAdkynet2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 💻 Operating System: 
-Windows                  2 hrs 43 mins       █████████████████████████   100.0%
+Windows                  3 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
