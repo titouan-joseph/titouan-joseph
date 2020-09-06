@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 319 Contributions in the Year 2020
+> 🏆 320 Contributions in the Year 2020
  > 
-> 📦 17.7 kB Used in Github's Storage 
+> 📦 17.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
