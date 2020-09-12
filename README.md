@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
