@@ -35,6 +35,9 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 </div>
 
 
+<details>
+ <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
