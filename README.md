@@ -15,24 +15,23 @@ Here are some ideas to get you started:
 
 ### Hey 👋🏽, I'm [Titouan](https://github.com/Titouan-Joseph) 
 
-<div>
+
 I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
+
   <img align="right" alt="GitHub Metrics" src="https://metrics.lecoq.io/titouan-joseph" />
-  
 
-**Languages and Tools:**  
+**Languages and Tools:** 
+
+[<img src="https://img.icons8.com/color/48/000000/python.png"/>]()[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]() [<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]() [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>]()
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo-thumbnail.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-</div>
+**My social networks :**
+
+[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol)  [<img src='https://img.icons8.com/fluent/48/000000/website.png' alt='website'>](https://titouan-joseph.revol.site)  
+
+
 
 
 <details>
@@ -120,3 +119,5 @@ Go                       1 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+Icons by [icones8](https://icones8.fr/)
