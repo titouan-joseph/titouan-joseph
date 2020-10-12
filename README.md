@@ -13,20 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="100%"
-         width="45%"
-         src="https://github-readme-stats.vercel.app/api?username=titouan-joseph&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img width="45%"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=titouan-joseph&layout=compact" />
-  </a>
-</p>
+### Hey 👋🏽, I'm [Titouan](https://github.com/Titouan-Joseph) 
 
-<details>
- <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
+<div>
+I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
+
+  <img align="right" alt="GitHub Metrics" src="https://metrics.lecoq.io/titouan-joseph" />
+  
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo-thumbnail.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+</div>
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
