@@ -15,21 +15,23 @@ Here are some ideas to get you started:
 
 ### Hey 👋🏽, I'm [Titouan](https://github.com/Titouan-Joseph) 
 
-
 I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
+
+- 📫 How to reach me: [titouan-joseph@revol.site](mailto:titouan-joseph@revol.site)
+- 🔭 I’m currently working on school projects
 
 
   <img align="right" alt="GitHub Metrics" src="https://metrics.lecoq.io/titouan-joseph" />
 
-**Languages and Tools:** 
+**Languages and Tools:**
 
-[<img src="https://img.icons8.com/color/48/000000/python.png"/>]()[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]() [<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]() [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>]()
+[<img src="https://img.icons8.com/color/48/000000/python.png"/>]()[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]() [<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]() [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>]() [<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>]() [<img src="https://img.icons8.com/color/48/000000/git.png"/>]() [<img src="https://img.icons8.com/color/48/000000/console.png"/>]() [<img src="https://img.icons8.com/color/48/000000/android-os.png"/>]() [<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>]() [<img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>]() [<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>]()
 
-
+[<img src="https://img.icons8.com/color/48/000000/linux.png"/>]() [<img src="https://img.icons8.com/color/48/000000/nginx.png"/>]() [<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>]() 
 
 **My social networks :**
 
-[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol)  [<img src='https://img.icons8.com/fluent/48/000000/website.png' alt='website'>](https://titouan-joseph.revol.site)  
+[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src='https://img.icons8.com/fluent/48/000000/website.png' alt='website'>](https://titouan-joseph.revol.site) 
 
 
 
