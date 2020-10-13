@@ -40,7 +40,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-389056%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
