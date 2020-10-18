@@ -27,18 +27,23 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>]()[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]() [<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]() [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>]() [<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>]() [<img src="https://img.icons8.com/color/48/000000/git.png"/>]() [<img src="https://img.icons8.com/color/48/000000/console.png"/>]() [<img src="https://img.icons8.com/color/48/000000/android-os.png"/>]() [<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>]() [<img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>]() [<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>]()
 
-[<img src="https://img.icons8.com/color/48/000000/linux.png"/>]() [<img src="https://img.icons8.com/color/48/000000/nginx.png"/>]() [<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>]() 
+[<img src="https://img.icons8.com/color/48/000000/linux.png"/>]() [<img src="https://img.icons8.com/color/48/000000/nginx.png"/>]() [<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>]()
 
 **My social networks :**
 
-[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src='https://img.icons8.com/fluent/48/000000/website.png' alt='website'>](https://titouan-joseph.revol.site) 
+[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src='https://img.icons8.com/fluent/48/000000/website.png' alt='website'>](https://titouan-joseph.revol.site) [<img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer">](https://sourcerer.io/titouan-joseph) 
 
-
+<details>
+ <summary>📈 <b>Commits stats (Click to expand)</b>: </summary>
+    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/Python-148%20commits-orange.svg" alt=""></a>
+    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/Java-27%20commits-orange.svg" alt=""></a>
+    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/C-23%20commits-orange.svg" alt=""></a>
+    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/JavaScript-18%20commits-orange.svg" alt=""></a>
+</details>
 
 
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 

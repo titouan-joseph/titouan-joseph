@@ -31,9 +31,15 @@ Je suis un éléve ingénieur à  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 **Mes réseaux sociaux:**
 
-[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src='https://img.icons8.com/fluent/48/000000/website.png' alt='website'>](https://titouan-joseph.revol.site) 
+[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src='https://img.icons8.com/fluent/48/000000/website.png' alt='website'>](https://titouan-joseph.revol.site)  [<img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer">](https://sourcerer.io/titouan-joseph) 
 
-
+<details>
+ <summary>📈 <b>Commits stats (Click to expand)</b>: </summary>
+    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/Python-148%20commits-orange.svg" alt=""></a>
+    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/Java-27%20commits-orange.svg" alt=""></a>
+    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/C-23%20commits-orange.svg" alt=""></a>
+    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/JavaScript-18%20commits-orange.svg" alt=""></a>
+</details>
 
 <details>
  <summary>👨‍💻 <b>Stats de programmation(Cliquez pour entendre)</b>: </summary>
