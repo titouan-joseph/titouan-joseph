@@ -47,7 +47,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 19 Contributions in the Year 2021
+> 🏆 20 Contributions in the Year 2021
  > 
 > 📦 51.5 kB Used in Github's Storage 
  > 
