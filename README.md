@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
-- 📫 How to reach me: [titouan-joseph@revol.site](mailto:titouan-joseph@revol.site)
+- 📫 How to reach me: [titouan-joseph@cicorella.net](mailto:titouan-joseph@cicorella.net)
 - 🔭 I’m currently working on school projects
 
 
@@ -31,7 +31,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 **My social networks :**
 
-[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="domain"/>](https://titouan-joseph.revol.site) [<img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer">](https://sourcerer.io/titouan-joseph) 
+[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="domain"/>](https://titouan-joseph.cicorella.net)
 
 <details>
  <summary>📈 <b>Commits stats (Click to expand)</b>: </summary>
