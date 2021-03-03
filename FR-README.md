@@ -27,7 +27,7 @@ Je suis un éléve ingénieur à  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>]()[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]() [<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]() [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>]() [<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>]() [<img src="https://img.icons8.com/color/48/000000/git.png"/>]() [<img src="https://img.icons8.com/color/48/000000/console.png"/>]() [<img src="https://img.icons8.com/color/48/000000/android-os.png"/>]() [<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>]() [<img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>]() [<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>]()
 
-[<img src="https://img.icons8.com/color/48/000000/linux.png"/>]() [<img src="https://img.icons8.com/color/48/000000/nginx.png"/>]() [<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>]() 
+[<img src="https://img.icons8.com/color/48/000000/linux.png"/>]() [<img src="https://img.icons8.com/color/48/000000/nginx.png"/>]() [<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>]()  [<img src="https://img.icons8.com/color/48/000000/docker.png"/>]()[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>]()
 
 **Mes réseaux sociaux:**
 
