@@ -132,9 +132,9 @@ MATLAB                   2 repos             █░░░░░░░░░░�
 
 <details>
  <summary>👨‍💻 <b>Programming stats (all time)(Click to expand)</b>: </summary>
-    <figure><embed src="https://wakatime.com/share/@titouan_joseph/b2dd01ab-0ae9-45a5-9065-5eef2a205b1c.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@titouan_joseph/5ef9f0c5-69ff-452c-80a9-909df7152407.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@titouan_joseph/3989b40d-e2ad-4aeb-8f15-b50171502a9a.svg"></embed></figure>
+    <img src="https://wakatime.com/share/@titouan_joseph/b2dd01ab-0ae9-45a5-9065-5eef2a205b1c.svg">
+    <img src="https://wakatime.com/share/@titouan_joseph/5ef9f0c5-69ff-452c-80a9-909df7152407.svg">
+    <img src="https://wakatime.com/share/@titouan_joseph/3989b40d-e2ad-4aeb-8f15-b50171502a9a.svg">
 </details>
 
 Icons by [icones8](https://icones8.fr/)
