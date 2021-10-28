@@ -86,17 +86,16 @@ Sunday       81 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 50 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 50 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Coding_batel_Shaker      1 hr 39 mins        ██████████████████████░░░   90.83% 
-Unknown Project          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.17%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -113,7 +112,7 @@ MATLAB                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
 
 </details>
