@@ -45,7 +45,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -124,7 +124,7 @@ MATLAB                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2022 13:57:46 UTC
+ Last Updated on 06/06/2022 14:00:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
