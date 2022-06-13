@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 - 📫 How to reach me: [titouan-joseph@cicorella.net](mailto:titouan-joseph@cicorella.net)
-- 🔭 I’m currently working on school projects
+- 🔭 I’m currently working on internship
 
 
   <img align="right" alt="GitHub Metrics" src="https://metrics.lecoq.io/titouan-joseph" />
@@ -31,16 +31,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 **My social networks :**
 
-[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="domain"/>](https://titouan-joseph.cicorella.net)
-
-<details>
- <summary>📈 <b>Commits stats (Click to expand)</b>: </summary>
-    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/Python-148%20commits-orange.svg" alt=""></a>
-    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/Java-27%20commits-orange.svg" alt=""></a>
-    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/C-23%20commits-orange.svg" alt=""></a>
-    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/JavaScript-18%20commits-orange.svg" alt=""></a>
-</details>
-
+[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_ci/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/tit_ci) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="domain"/>](https://titouan-joseph.cicorella.net)
 
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
@@ -125,11 +116,12 @@ MATLAB                   2 repos             █░░░░░░░░░░�
 
 </details>
 
-<details>
- <summary>👨‍💻 <b>Programming stats (all time)(Click to expand)</b>: </summary>
-    <img src="https://wakatime.com/share/@titouan_joseph/b2dd01ab-0ae9-45a5-9065-5eef2a205b1c.svg">
-    <img src="https://wakatime.com/share/@titouan_joseph/5ef9f0c5-69ff-452c-80a9-909df7152407.svg">
-    <img src="https://wakatime.com/share/@titouan_joseph/3989b40d-e2ad-4aeb-8f15-b50171502a9a.svg">
-</details>
+<b>Projects programming stats</b>:
+|Project|Time|
+|:-----:|:--:|
+|Overbookd| [![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/d8c55d07-5b66-4500-8928-c8628ca2fc78.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/d8c55d07-5b66-4500-8928-c8628ca2fc78) |
+|website24maker|[![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/0d2d9294-0be7-4646-9c4f-7169f120f4e7.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/0d2d9294-0be7-4646-9c4f-7169f120f4e7)|
+|AstusBot|[![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/e6f09298-a37c-4761-b8d4-5ec7312fd79f.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/e6f09298-a37c-4761-b8d4-5ec7312fd79f)|
+|Total programming|[![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283.svg)](https://wakatime.com/@07f10887-f0d8-43c1-b329-d19c27059283)|
 
 Icons by [icones8](https://icones8.fr/)
