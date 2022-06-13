@@ -31,100 +31,23 @@ Je suis un éléve ingénieur à  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 **Mes réseaux sociaux:**
 
-[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_re/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/josephrevol) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01)  [<img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="domain"/>](https://titouan-joseph.cicorella.net)
+[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_ci/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/tit_ci) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="domain"/>](https://titouan-joseph.cicorella.net)
 
-<details>
- <summary>📈 <b>Commits stats (Click to expand)</b>: </summary>
-    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/Python-148%20commits-orange.svg" alt=""></a>
-    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/Java-27%20commits-orange.svg" alt=""></a>
-    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/C-23%20commits-orange.svg" alt=""></a>
-    <a href="https://sourcerer.io/titouan-joseph"><img src="https://img.shields.io/badge/JavaScript-18%20commits-orange.svg" alt=""></a>
-</details>
-
-<details>
- <summary>👨‍💻 <b>Stats de programmation(Cliquez pour entendre)</b>: </summary>
+👨‍💻 <b>Stats de programmation(Cliquez pour entendre)</b>:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 370 Contributions in the Year 2020
- > 
-> 📦 17.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories
- > 
-> 🔑 2 Private Repositories 
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-🌆 Daytime    139 commits    █████████░░░░░░░░░░░░░░░░   37.17% 
-🌃 Evening    138 commits    █████████░░░░░░░░░░░░░░░░   36.9% 
-🌙 Night      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-Tuesday      60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
-Wednesday    124 commits    ████████░░░░░░░░░░░░░░░░░   33.16% 
-Thursday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
-Friday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-Saturday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Sunday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-C                        3 hrs 12 mins       ██████████████░░░░░░░░░░░   55.6% 
-Java                     1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   26.0% 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
-Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.81% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48%
-
-🔥 Editors: 
-Atom                     3 hrs 33 mins       ███████████████░░░░░░░░░░   61.72% 
-PyCharmCore              1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.87% 
-IdeaEdu                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-
-🐱‍💻 Projects: 
-PRS-4TC                  3 hrs 33 mins       ███████████████░░░░░░░░░░   61.72% 
-rpc                      2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.35% 
-ASTUSbot                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
-
-💻 Operating System: 
-Windows                  5 hrs 46 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   11 repos            ████████████░░░░░░░░░░░░░   50.0% 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Go                       1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-```
-
-
+[Voir les données a jour sur la version anglais](README.md)
 
 <!--END_SECTION:waka-->
 
-</details>
+
+<b>Projects programming stats</b>:
+|Project|Time|
+|:-----:|:--:|
+|Overbookd| [![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/d8c55d07-5b66-4500-8928-c8628ca2fc78.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/d8c55d07-5b66-4500-8928-c8628ca2fc78) |
+|website24maker|[![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/0d2d9294-0be7-4646-9c4f-7169f120f4e7.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/0d2d9294-0be7-4646-9c4f-7169f120f4e7)|
+|AstusBot|[![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/e6f09298-a37c-4761-b8d4-5ec7312fd79f.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/e6f09298-a37c-4761-b8d4-5ec7312fd79f)|
+|Total programming|[![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283.svg)](https://wakatime.com/@07f10887-f0d8-43c1-b329-d19c27059283)|
 
 Icons by [icones8](https://icones8.fr/)
