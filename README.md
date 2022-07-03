@@ -40,9 +40,9 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 **🐱 My GitHub Data** 
 
-> 🏆 163 Contributions in the Year 2022
+> 🏆 166 Contributions in the Year 2022
  > 
-> 📦 63.1 kB Used in GitHub's Storage 
+> 📦 63.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,7 +116,7 @@ MATLAB                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2022 13:57:49 UTC
+ Last Updated on 03/07/2022 13:57:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
