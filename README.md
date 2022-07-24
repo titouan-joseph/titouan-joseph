@@ -36,13 +36,13 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2057%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 175 Contributions in the Year 2022
  > 
-> 📦 68.9 kB Used in GitHub's Storage 
+> 📦 69.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,7 +113,7 @@ MATLAB                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2022 13:57:49 UTC
+ Last Updated on 24/07/2022 13:57:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
