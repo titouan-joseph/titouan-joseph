@@ -45,7 +45,7 @@ Je suis un éléve ingénieur à  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 <b>Projects programming stats</b>:
 |Project|Time|
 |:-----:|:--:|
-|[Overbookd](https://gitlab.com/24-heures-insa/overbookd-mono)| [![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/d8c55d07-5b66-4500-8928-c8628ca2fc78.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/d8c55d07-5b66-4500-8928-c8628ca2fc78) |
+|[Overbookd](https://gitlab.com/24-heures-insa/overbookd-mono)| [![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/ab706b0b-5add-409f-af94-4f37aa8fb446.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/ab706b0b-5add-409f-af94-4f37aa8fb446) |
 |[tldr](https://github.com/tldr-pages/tldr)|[![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/e25ceab6-07e9-4b76-9e55-f73d45e58856.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/e25ceab6-07e9-4b76-9e55-f73d45e58856)|
 |[website24maker](https://github.com/24HeuresINSA/website24maker)|[![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/0d2d9294-0be7-4646-9c4f-7169f120f4e7.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/0d2d9294-0be7-4646-9c4f-7169f120f4e7)|
 |[AstusBot](https://github.com/TCastus/ASTUSbot)|[![wakatime](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/e6f09298-a37c-4761-b8d4-5ec7312fd79f.svg)](https://wakatime.com/badge/user/07f10887-f0d8-43c1-b329-d19c27059283/project/e6f09298-a37c-4761-b8d4-5ec7312fd79f)|
