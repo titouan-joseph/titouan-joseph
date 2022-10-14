@@ -33,6 +33,10 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 [<img src='https://img.icons8.com/fluent/48/000000/github.png' alt="github">](https://github.com/titouan-joseph)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/titouan-joseph-revol/)  [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='instagram'>](https://www.instagram.com/tit_ci/)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter'>](https://twitter.com/tit_ci) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/titre01) [<img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="domain"/>](https://titouan-joseph.cicorella.net)
 
+## Github profile trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=titouan-joseph&no-frame=true&no-bg=true)
+
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
