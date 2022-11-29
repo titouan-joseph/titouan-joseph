@@ -20,6 +20,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 - 📫 How to reach me: [titouan-joseph@cicorella.net](mailto:titouan-joseph@cicorella.net)
 - 🔭 I’m currently working on internship
 
+[![@titouanjoseph's Holopin board](https://holopin.me/titouanjoseph)](https://holopin.io/@titouanjoseph)
 
   <img align="right" alt="GitHub Metrics" src="https://metrics.lecoq.io/titouan-joseph" />
 
