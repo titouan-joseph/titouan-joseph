@@ -41,13 +41,13 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C224%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C224%20hrs%206%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 49 Contributions in the Year 2023
  > 
-> 📦 125.8 kB Used in GitHub's Storage 
+> 📦 126.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,7 +120,7 @@ Markdown                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2023 13:57:44 UTC
+ Last Updated on 10/01/2023 13:57:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
