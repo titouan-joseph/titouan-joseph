@@ -45,7 +45,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 **🐱 My GitHub Data** 
 
-> 📦 145.3 kB Used in GitHub's Storage 
+> 📦 145.6 kB Used in GitHub's Storage 
  > 
 > 🏆 125 Contributions in the Year 2023
  > 
@@ -116,7 +116,7 @@ YAML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2023 13:56:25 UTC
+ Last Updated on 09/03/2023 13:56:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
