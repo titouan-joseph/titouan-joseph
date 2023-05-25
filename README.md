@@ -41,11 +41,11 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C305%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C305%20hrs%2017%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 173.8 kB Used in GitHub's Storage 
+> 📦 174.1 kB Used in GitHub's Storage 
  > 
 > 🏆 164 Contributions in the Year 2023
  > 
@@ -82,17 +82,17 @@ Sunday                   43077 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Shell                    9 mins              █████████████████████████   100.00 % 
+Shell                    14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Bash                     9 mins              █████████████████████████   100.00 % 
+Bash                     14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Terminal                 8 mins              ███████████████████████░░   91.18 % 
-swarmTest                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Terminal                 13 mins             ████████████████████████░   94.27 % 
+swarmTest                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+Linux                    14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ YAML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2023 14:30:30 UTC
+ Last Updated on 25/05/2023 14:36:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
