@@ -45,7 +45,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 **🐱 My GitHub Data** 
 
-> 📦 176.3 kB Used in GitHub's Storage 
+> 📦 176.9 kB Used in GitHub's Storage 
  > 
 > 🏆 164 Contributions in the Year 2023
  > 
@@ -82,16 +82,16 @@ Sunday                   43735 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Shell                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Bash                     4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Terminal                 4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +107,7 @@ YAML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2023 14:29:55 UTC
+ Last Updated on 01/06/2023 14:31:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
