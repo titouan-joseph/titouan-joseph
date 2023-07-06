@@ -41,13 +41,13 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C321%20hrs%2021%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 190.6 kB Used in GitHub's Storage 
+> 📦 191.5 kB Used in GitHub's Storage 
  > 
-> 🏆 168 Contributions in the Year 2023
+> 🏆 169 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,8 +59,8 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 ```text
 🌞 Morning                36486 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-🌆 Daytime                148670 commits      ██████████░░░░░░░░░░░░░░░   41.36 % 
-🌃 Evening                159989 commits      ███████████░░░░░░░░░░░░░░   44.51 % 
+🌆 Daytime                148663 commits      ██████████░░░░░░░░░░░░░░░   41.36 % 
+🌃 Evening                160002 commits      ███████████░░░░░░░░░░░░░░   44.51 % 
 🌙 Night                  14292 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -68,11 +68,11 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 ```text
 Monday                   53997 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 Tuesday                  113227 commits      ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Wednesday                46389 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Wednesday                46402 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 Thursday                 38474 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 Friday                   32718 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 Saturday                 26892 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Sunday                   47740 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Sunday                   47733 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 ```
 
 
@@ -114,7 +114,7 @@ YAML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2023 14:33:56 UTC
+ Last Updated on 06/07/2023 14:36:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
