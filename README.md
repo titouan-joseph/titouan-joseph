@@ -43,7 +43,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 320.7 kB Used in GitHub's Storage 
+> 📦 321.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,7 +64,7 @@ YAML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 15:36:15 UTC
+ Last Updated on 15/04/2024 14:32:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
