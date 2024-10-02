@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 ### Hey 👋🏽, I'm [Titouan](https://github.com/Titouan-Joseph) 
 
-I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
+I studied at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)  
+I'm working for [CNS Communications](https://www.cns-com.com/) as consulting engineer
 
 - 📫 How to reach me: [titouan-joseph@cicorella.net](mailto:titouan-joseph@cicorella.net)
-- 🔭 I’m currently working on internship
+- 🔭 I’m currently working on terraform/terragrunt
 
 [![@titouanjoseph's Holopin board](https://holopin.me/titouanjoseph)](https://holopin.io/@titouanjoseph)
 
@@ -26,7 +27,7 @@ I'm a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.fr/en/)
 
 **Languages and Tools:**
 
-[<img src="https://img.icons8.com/color/48/000000/python.png"/>]()[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]() [<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]() [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>]() [<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>]() [<img src="https://img.icons8.com/color/48/000000/git.png"/>]() [<img src="https://img.icons8.com/color/48/000000/console.png"/>]() [<img src="https://img.icons8.com/color/48/000000/android-os.png"/>]() [<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>]() [<img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>]() [<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>]()[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo.png"/>]()
+[<img src="https://img.icons8.com/color/48/000000/python.png"/>]()[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]() [<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]() [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>]() [<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>]() [<img src="https://img.icons8.com/color/48/000000/git.png"/>]() [<img src="https://img.icons8.com/color/48/000000/console.png"/>]() [<img src="https://img.icons8.com/color/48/000000/android-os.png"/>]() [<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>]() [<img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>]() [<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>]()[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo.png"/>]() [<img src="https://img.icons8.com/color/48/000000/terraform.png" />]()
 
 [<img src="https://img.icons8.com/color/48/000000/linux.png"/>]() [<img src="https://img.icons8.com/color/48/000000/nginx.png"/>]() [<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>]() [<img src="https://img.icons8.com/color/48/000000/docker.png"/>]()[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>]()
 
