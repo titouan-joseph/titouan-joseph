@@ -42,11 +42,9 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C078%20hrs%2018%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 633.9 kB Used in GitHub's Storage 
+> 📦 634.3 kB Used in GitHub's Storage 
  > 
 > 🏆 42 Contributions in the Year 2025
  > 
@@ -69,7 +67,7 @@ JSON                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 15:18:58 UTC
+ Last Updated on 03/10/2025 15:19:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
