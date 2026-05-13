@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C301%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C302%20hrs%202%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 707.9 kB Used in GitHub's Storage 
+> 📦 708.2 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,20 +56,71 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                94233 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+🌆 Daytime                334548 commits      ██████████░░░░░░░░░░░░░░░   39.84 % 
+🌃 Evening                380288 commits      ███████████░░░░░░░░░░░░░░   45.28 % 
+🌙 Night                  30729 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   126977 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  259373 commits      ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Wednesday                109454 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Thursday                 88586 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Friday                   72960 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Saturday                 67060 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Sunday                   115388 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+YAML                     4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.07 % 
+Other                    2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Vue                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Shell                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 48 mins       █████████████████░░░░░░░░   69.88 % 
+Bash                     3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Cursor                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Vim                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+
+🐱‍💻 Projects: 
+Overrun                  3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+OA                       2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+homelab                  2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+CMACGM                   1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Terminal                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+
+💻 Operating System: 
+Linux                    8 hrs               ████████████████░░░░░░░░░   63.47 % 
+WSL                      4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ████████████░░░░░░░░░░░░░   46.34 % 
-Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-JSON                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   19 repos            ███████████░░░░░░░░░░░░░░   45.24 % 
+Go                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+JSON                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 12/05/2026 18:16:41 UTC
+ Last Updated on 13/05/2026 18:09:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
