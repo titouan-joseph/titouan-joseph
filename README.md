@@ -46,7 +46,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 709.2 kB Used in GitHub's Storage 
+> 📦 709.4 kB Used in GitHub's Storage 
  > 
 > 🏆 17 Contributions in the Year 2026
  > 
@@ -56,71 +56,20 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                45800 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-🌆 Daytime                160990 commits      ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌃 Evening                183601 commits      ███████████░░░░░░░░░░░░░░   45.30 % 
-🌙 Night                  14911 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   60858 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  125412 commits      ████████░░░░░░░░░░░░░░░░░   30.94 % 
-Wednesday                53042 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 42640 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   34952 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Saturday                 32307 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Sunday                   56091 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-YAML                     3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-Other                    3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-Vue                      1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Shell                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 45 mins       █████████████████░░░░░░░░   66.90 % 
-Bash                     3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-Cursor                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Vim                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-
-🐱‍💻 Projects: 
-Overrun                  3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-OA                       2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-homelab                  2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-CMACGM                   1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-infra                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-
-💻 Operating System: 
-Linux                    8 hrs 43 mins       █████████████████░░░░░░░░   66.72 % 
-WSL                      4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████████░░░░░░░░░░░░░░   45.24 % 
-Go                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-JSON                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   19 repos            ████████████░░░░░░░░░░░░░   46.34 % 
+Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+JSON                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 16/05/2026 15:09:35 UTC
+ Last Updated on 17/05/2026 17:34:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
