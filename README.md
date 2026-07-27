@@ -42,11 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C353%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C838%20hrs%209%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 715.8 kB Used in GitHub's Storage 
+> 📦 716.0 kB Used in GitHub's Storage 
  > 
 > 🏆 24 Contributions in the Year 2026
  > 
@@ -103,6 +105,12 @@ testvm                   6 mins              █░░░░░░░░░░�
 WSL                      2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -116,7 +124,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 16:57:35 UTC
+ Last Updated on 27/07/2026 19:09:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
