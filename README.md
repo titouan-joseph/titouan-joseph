@@ -48,7 +48,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 719.0 kB Used in GitHub's Storage 
+> 📦 719.2 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -85,46 +85,29 @@ Sunday                   117046 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Bash                     1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   32.99 % 
-Other                    57 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-Docker                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Terraform                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Terraform                16 mins             █████████████████░░░░░░░░   66.14 % 
+Other                    4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+YAML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        ███████████████░░░░░░░░░░   59.90 % 
-Bash                     1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   40.10 % 
+VS Code                  23 mins             ███████████████████████░░   93.39 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🐱‍💻 Projects: 
-commits                  1 hr 56 mins        ██████████████░░░░░░░░░░░   55.15 % 
-infra                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-CMACGM                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-overrun-commit-sender    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Overrun                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+CMACGM                   23 mins             ███████████████████████░░   91.57 % 
+infra                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+OA                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Linux                    3 hrs 5 mins        ██████████████████████░░░   87.86 % 
-WSL                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+WSL                      25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (15.92%)
-
-✍️ 0 lines written by AI, 81 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 99 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +123,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 17:39:33 UTC
+ Last Updated on 11/08/2026 17:31:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
