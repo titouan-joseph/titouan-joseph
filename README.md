@@ -48,7 +48,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 719.4 kB Used in GitHub's Storage 
+> 📦 719.6 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -58,6 +58,58 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                95663 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+🌆 Daytime                338428 commits      ██████████░░░░░░░░░░░░░░░   39.78 % 
+🌃 Evening                385481 commits      ███████████░░░░░░░░░░░░░░   45.31 % 
+🌙 Night                  31135 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   128664 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  262546 commits      ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Wednesday                110993 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Thursday                 89524 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Friday                   73917 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Saturday                 68017 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Sunday                   117046 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Terraform                17 mins             ████████████████████░░░░░   78.26 % 
+Docker                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+
+🔥 Editors: 
+VS Code                  22 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+CMACGM                   12 mins             ██████████████░░░░░░░░░░░   56.39 % 
+OA                       9 mins              ██████████░░░░░░░░░░░░░░░   41.72 % 
+netbox-docker            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+infra                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+
+💻 Operating System: 
+WSL                      22 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -71,7 +123,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 17:16:00 UTC
+ Last Updated on 13/08/2026 17:25:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
