@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C842%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C844%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 719.6 kB Used in GitHub's Storage 
+> 📦 719.8 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -85,20 +85,19 @@ Sunday                   117046 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Terraform                17 mins             ████████████████████░░░░░   78.26 % 
-Docker                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Terraform                17 mins             ████████████████████░░░░░   78.12 % 
+Docker                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
 VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CMACGM                   12 mins             ██████████████░░░░░░░░░░░   56.39 % 
-OA                       9 mins              ██████████░░░░░░░░░░░░░░░   41.72 % 
-netbox-docker            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-infra                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+CMACGM                   12 mins             ██████████████░░░░░░░░░░░   56.66 % 
+OA                       9 mins              ██████████░░░░░░░░░░░░░░░   42.00 % 
+netbox-docker            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
 WSL                      22 mins             █████████████████████████   100.00 % 
@@ -123,7 +122,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 17:25:50 UTC
+ Last Updated on 14/08/2026 17:01:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
