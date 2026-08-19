@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C847%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C849%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 720.7 kB Used in GitHub's Storage 
+> 📦 720.9 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -85,23 +85,23 @@ Sunday                   117046 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-YAML                     34 mins             ██████████░░░░░░░░░░░░░░░   39.06 % 
-Bash                     30 mins             █████████░░░░░░░░░░░░░░░░   34.54 % 
-Terraform                18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+YAML                     3 hrs 11 mins       █████████████████░░░░░░░░   69.47 % 
+Bash                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Terraform                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-infra                    1 hr 16 mins        █████████████████████░░░░   85.77 % 
-OA                       9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-CMACGM                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-netbox-docker            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+infra                    2 hrs 25 mins       █████████████░░░░░░░░░░░░   52.68 % 
+dashy                    1 hr 59 mins        ███████████░░░░░░░░░░░░░░   43.43 % 
+homelab                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+overbookd-mono           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-WSL                      1 hr 28 mins        █████████████████████████   100.00 % 
+WSL                      4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,7 +123,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 16:52:30 UTC
+ Last Updated on 19/08/2026 16:59:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
