@@ -48,7 +48,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 721.5 kB Used in GitHub's Storage 
+> 📦 721.7 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
@@ -61,21 +61,21 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                63849 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-🌆 Daytime                229594 commits      ██████████░░░░░░░░░░░░░░░   39.99 % 
-🌃 Evening                259589 commits      ███████████░░░░░░░░░░░░░░   45.21 % 
-🌙 Night                  21099 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+🌞 Morning                95663 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+🌆 Daytime                338428 commits      ██████████░░░░░░░░░░░░░░░   39.78 % 
+🌃 Evening                385481 commits      ███████████░░░░░░░░░░░░░░   45.31 % 
+🌙 Night                  31135 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   86628 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Tuesday                  179604 commits      ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Wednesday                74956 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Thursday                 59749 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Friday                   50056 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Saturday                 44835 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Sunday                   78303 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Monday                   128664 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  262546 commits      ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Wednesday                110993 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Thursday                 89524 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Friday                   73917 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Saturday                 68017 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Sunday                   117046 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 ```
 
 
@@ -85,26 +85,26 @@ Sunday                   78303 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-YAML                     4 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.23 % 
-Terraform                3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.92 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-HCL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+YAML                     4 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.75 % 
+Terraform                3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 16 mins       █████████████████████████   100.00 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VS Code                  8 hrs 45 mins       ████████████████████████░   96.47 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🐱‍💻 Projects: 
-OA                       2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-CMACGM                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-dashy                    1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-infra                    1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-homelab                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+OA                       2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+CMACGM                   2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+infra                    2 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+dashy                    1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+homelab                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 💻 Operating System: 
-WSL                      8 hrs 16 mins       █████████████████████████   100.00 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+WSL                      8 hrs 33 mins       ████████████████████████░   94.20 % 
+Linux                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,7 +126,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 15:18:51 UTC
+ Last Updated on 23/08/2026 16:14:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
