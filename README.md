@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C857%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C857%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%209%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 722.8 kB Used in GitHub's Storage 
+> 📦 723.0 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
@@ -58,61 +58,6 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                95719 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-🌆 Daytime                338589 commits      ██████████░░░░░░░░░░░░░░░   39.78 % 
-🌃 Evening                385674 commits      ███████████░░░░░░░░░░░░░░   45.31 % 
-🌙 Night                  31150 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   128725 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  262674 commits      ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Wednesday                111051 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Thursday                 89567 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   73952 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Saturday                 68053 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Sunday                   117110 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-YAML                     2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
-Terraform                1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Other                    1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Shell                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 29 mins       ██████████████████░░░░░░░   72.70 % 
-Bash                     1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-
-🐱‍💻 Projects: 
-homelab                  2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.02 % 
-OA                       1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-CMACGM                   1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Terminal                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-infra                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-
-💻 Operating System: 
-Linux                    3 hrs 17 mins       █████████████░░░░░░░░░░░░   53.33 % 
-WSL                      2 hrs 52 mins       ████████████░░░░░░░░░░░░░   46.67 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -126,7 +71,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 01:11:42 UTC
+ Last Updated on 29/08/2026 19:42:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
