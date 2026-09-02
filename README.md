@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C857%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%209%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 723.6 kB Used in GitHub's Storage 
+> 📦 723.8 kB Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2026
  > 
@@ -85,34 +85,34 @@ Sunday                   117110 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-YAML                     1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   33.80 % 
-Terraform                1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Shell                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+YAML                     1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.70 % 
+Terraform                1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 23 mins       ███████████████████░░░░░░   76.30 % 
-Bash                     1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+VS Code                  3 hrs 44 mins       ██████████████████████░░░   88.17 % 
+Bash                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 
 🐱‍💻 Projects: 
-homelab                  2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
-OA                       1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   30.56 % 
-CMACGM                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Terminal                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-timetracker              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+OA                       1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   41.43 % 
+homelab                  1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+CMACGM                   50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+timetracker              32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Terminal                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 59 mins       █████████████░░░░░░░░░░░░   51.94 % 
-Linux                    2 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.06 % 
+WSL                      3 hrs 8 mins        ██████████████████░░░░░░░   73.98 % 
+Linux                    1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   26.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (0.31%)
+⏱ AI Coding Time: 1 min (0.42%)
 
-✍️ 0 lines written by AI, 7,904 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 7,719 lines written by hand (0.0% AI-written)
 
 🔤 2,744 Input Tokens, 1,201 Output Tokens
 
@@ -142,7 +142,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 19:47:51 UTC
+ Last Updated on 02/09/2026 20:23:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
