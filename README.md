@@ -48,7 +48,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 725.2 kB Used in GitHub's Storage 
+> 📦 725.4 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -85,35 +85,35 @@ Sunday                   117167 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Terraform                4 hrs 8 mins        █████████████░░░░░░░░░░░░   53.02 % 
-Other                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Shell                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Terraform                4 hrs 19 mins       ██████████████░░░░░░░░░░░   56.36 % 
+Other                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Shell                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 10 mins       ████████████████████░░░░░   79.00 % 
-Bash                     1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-KiloCode                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+VS Code                  6 hrs 1 min         ████████████████████░░░░░   78.55 % 
+Bash                     1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+KiloCode                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🐱‍💻 Projects: 
-CMACGM                   4 hrs 41 mins       ███████████████░░░░░░░░░░   59.89 % 
-homelab                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-infra                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-OA                       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Terminal                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+CMACGM                   4 hrs 54 mins       ████████████████░░░░░░░░░   63.99 % 
+homelab                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+infra                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Terminal                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+OA                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 💻 Operating System: 
-WSL                      5 hrs 36 mins       ██████████████████░░░░░░░   71.70 % 
-Linux                    2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+WSL                      5 hrs 26 mins       ██████████████████░░░░░░░   71.10 % 
+Linux                    2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (9.77%)
+⏱ AI Coding Time: 45 mins (9.98%)
 
-✍️ 849 lines written by AI, 1,013 lines written by hand (45.6% AI-written)
+✍️ 849 lines written by AI, 981 lines written by hand (46.39% AI-written)
 
 🔤 1,544,000 Input Tokens, 6,800 Output Tokens
 
@@ -125,10 +125,10 @@ KiloCode                 849 lines           ███████████�
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.6% of written lines came from AI
+⚖️ Balanced with AI — 46.39% of written lines came from AI
 📝 Concise Prompter — average 64 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 83.46% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +144,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 19:53:50 UTC
+ Last Updated on 10/09/2026 20:00:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
