@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 725.6 kB Used in GitHub's Storage 
+> 📦 725.9 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -58,79 +58,6 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                95770 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-🌆 Daytime                338741 commits      ██████████░░░░░░░░░░░░░░░   39.78 % 
-🌃 Evening                385853 commits      ███████████░░░░░░░░░░░░░░   45.31 % 
-🌙 Night                  31164 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   128783 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  262793 commits      ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Wednesday                111105 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Thursday                 89608 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   73986 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Saturday                 68086 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Sunday                   117167 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Terraform                3 hrs 7 mins        ██████████████░░░░░░░░░░░   54.95 % 
-Other                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 49 mins       █████████████████████░░░░   84.94 % 
-Bash                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-KiloCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-
-🐱‍💻 Projects: 
-CMACGM                   3 hrs 16 mins       ██████████████░░░░░░░░░░░   57.67 % 
-homelab                  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-infra                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-OA                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-net-alz-connectivity     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-
-💻 Operating System: 
-WSL                      4 hrs 11 mins       ██████████████████░░░░░░░   73.79 % 
-Linux                    1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 16 mins (4.95%)
-
-✍️ 106 lines written by AI, 523 lines written by hand (16.85% AI-written)
-
-🔤 370,778 Input Tokens, 2,962 Output Tokens
-
-💵 $1.86 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 8 AI Prompts
-
-KiloCode                 360 lines           █████████████████████████   100.00 % 
-Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.85% of written lines came from AI
-📝 Concise Prompter — average 125 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 97.24% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -144,7 +71,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 20:10:06 UTC
+ Last Updated on 12/09/2026 17:32:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
