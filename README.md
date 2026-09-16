@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C866%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 726.5 kB Used in GitHub's Storage 
+> 📦 726.7 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -85,27 +85,27 @@ Sunday                   117452 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Terraform                48 mins             ██████████████░░░░░░░░░░░   54.75 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Terraform                48 mins             █████████░░░░░░░░░░░░░░░░   34.26 % 
+Other                    29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Python                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        ██████████████████████░░░   89.10 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+VS Code                  1 hr 47 mins        ███████████████████░░░░░░   76.60 % 
+Bash                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🐱‍💻 Projects: 
-CMACGM                   47 mins             ██████████████░░░░░░░░░░░   54.05 % 
-net-alz-connectivity     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-timetracker              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-infra                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-slack                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+infra                    48 mins             █████████░░░░░░░░░░░░░░░░   34.56 % 
+CMACGM                   47 mins             ████████░░░░░░░░░░░░░░░░░   33.83 % 
+net-alz-connectivity     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+timetracker              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+keymaker                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 💻 Operating System: 
-WSL                      1 hr 18 mins        ██████████████████████░░░   89.10 % 
-Linux                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+WSL                      1 hr 18 mins        ██████████████░░░░░░░░░░░   55.78 % 
+Linux                    1 hr 2 mins         ███████████░░░░░░░░░░░░░░   44.22 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,7 +127,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 20:28:29 UTC
+ Last Updated on 16/09/2026 20:41:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
