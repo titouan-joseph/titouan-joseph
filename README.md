@@ -48,7 +48,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 728.6 kB Used in GitHub's Storage 
+> 📦 728.8 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -58,57 +58,6 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                96652 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-🌆 Daytime                341459 commits      ██████████░░░░░░░░░░░░░░░   39.77 % 
-🌃 Evening                389075 commits      ███████████░░░░░░░░░░░░░░   45.31 % 
-🌙 Night                  31416 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   129827 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  264917 commits      ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Wednesday                112059 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Thursday                 90346 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   74580 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Saturday                 68680 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Sunday                   118193 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Shell                    35 mins             ████████████████████░░░░░   79.11 % 
-YAML                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Terraform                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-🔥 Editors: 
-Bash                     35 mins             ████████████████████░░░░░   79.11 % 
-VS Code                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-
-🐱‍💻 Projects: 
-Terminal                 35 mins             ████████████████████░░░░░   79.11 % 
-containerlab             8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-CMACGM                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-💻 Operating System: 
-Linux                    35 mins             ████████████████████░░░░░   79.11 % 
-WSL                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -122,7 +71,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 21:01:10 UTC
+ Last Updated on 26/09/2026 19:54:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
