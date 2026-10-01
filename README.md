@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2016%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 729.7 kB Used in GitHub's Storage 
+> 📦 729.9 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2026
  > 
@@ -61,21 +61,21 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                97486 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-🌆 Daytime                344026 commits      ██████████░░░░░░░░░░░░░░░   39.76 % 
-🌃 Evening                392118 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
-🌙 Night                  31654 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+🌞 Morning                97633 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+🌆 Daytime                344479 commits      ██████████░░░░░░░░░░░░░░░   39.76 % 
+🌃 Evening                392655 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
+🌙 Night                  31696 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   130814 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  266923 commits      ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Wednesday                112960 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Thursday                 91043 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   75141 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Saturday                 69241 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Sunday                   119162 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Monday                   130988 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  267277 commits      ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Wednesday                113119 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 91166 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Friday                   75240 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Saturday                 69340 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Sunday                   119333 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
 
 
@@ -85,33 +85,49 @@ Sunday                   119162 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    55 mins             ██████████░░░░░░░░░░░░░░░   39.25 % 
-Terraform                37 mins             ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-Markdown                 24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Shell                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Other                    1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   34.83 % 
+Terraform                1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Docker                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████░░░░░░░░░░░░   50.34 % 
-Bash                     1 hr 9 mins         ████████████░░░░░░░░░░░░░   48.98 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+VS Code                  2 hrs 29 mins       ███████████████░░░░░░░░░░   59.68 % 
+Bash                     1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   39.94 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-infra                    48 mins             █████████░░░░░░░░░░░░░░░░   34.45 % 
-CMACGM                   46 mins             ████████░░░░░░░░░░░░░░░░░   32.84 % 
-Concepts                 24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Terminal                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-overbookd-mono           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+CMACGM                   1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   41.95 % 
+Overrun                  50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+infra                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Concepts                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Terminal                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-WSL                      1 hr 11 mins        █████████████░░░░░░░░░░░░   50.34 % 
-Linux                    1 hr 10 mins        ████████████░░░░░░░░░░░░░   49.66 % 
+WSL                      2 hrs 10 mins       █████████████░░░░░░░░░░░░   51.83 % 
+Linux                    2 hrs               ████████████░░░░░░░░░░░░░   48.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (3.86%)
+
+✍️ 0 lines written by AI, 433 lines written by hand (0.0% AI-written)
+
+🔤 163,379 Input Tokens, 685 Output Tokens
+
+💵 $0.50 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 16 AI Prompts
+
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 43 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -127,7 +143,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 21:25:28 UTC
+ Last Updated on 01/10/2026 22:07:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
