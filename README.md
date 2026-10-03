@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2052%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 730.1 kB Used in GitHub's Storage 
+> 📦 730.3 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2026
  > 
@@ -61,21 +61,21 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                97682 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-🌆 Daytime                344630 commits      ██████████░░░░░░░░░░░░░░░   39.76 % 
-🌃 Evening                392834 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
-🌙 Night                  31710 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+🌞 Morning                97780 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+🌆 Daytime                344932 commits      ██████████░░░░░░░░░░░░░░░   39.76 % 
+🌃 Evening                393192 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
+🌙 Night                  31738 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   131046 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  267395 commits      ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Wednesday                113172 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Thursday                 91207 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   75273 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Saturday                 69373 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Sunday                   119390 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Monday                   131162 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  267631 commits      ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Wednesday                113278 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 91289 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Friday                   75339 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Saturday                 69439 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Sunday                   119504 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
 
 
@@ -85,35 +85,35 @@ Sunday                   119390 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-Terraform                1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-YAML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-JSON                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Other                    1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+Terraform                1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+YAML                     1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+JSON                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 34 mins       ██████████████████░░░░░░░   73.04 % 
-Bash                     1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+VS Code                  5 hrs 8 mins        ███████████████████░░░░░░   75.28 % 
+Bash                     1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-CMACGM                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.16 % 
-OA                       1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Overrun                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-infra                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-autom                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+CMACGM                   2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.66 % 
+OA                       1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Overrun                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+infra                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+autom                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 
 💻 Operating System: 
-WSL                      4 hrs 14 mins       █████████████████░░░░░░░░   67.79 % 
-Linux                    2 hrs               ████████░░░░░░░░░░░░░░░░░   32.21 % 
+WSL                      4 hrs 48 mins       ██████████████████░░░░░░░   70.47 % 
+Linux                    2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 20 mins (21.51%)
+⏱ AI Coding Time: 1 hr 20 mins (19.72%)
 
-✍️ 204 lines written by AI, 4,126 lines written by hand (4.71% AI-written)
+✍️ 204 lines written by AI, 4,142 lines written by hand (4.69% AI-written)
 
 🔤 4,315,885 Input Tokens, 34,384 Output Tokens
 
@@ -125,10 +125,10 @@ KiloCode                 204 lines           ███████████�
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.71% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.69% of written lines came from AI
 📝 Concise Prompter — average 53 characters per prompt
 🔁 Iterative Prompter — average 23 prompts per session
-🔍 Hands-On Reviewer — 97.94% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +144,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 21:22:50 UTC
+ Last Updated on 03/10/2026 20:03:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
