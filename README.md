@@ -48,7 +48,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 730.3 kB Used in GitHub's Storage 
+> 📦 730.5 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2026
  > 
@@ -85,50 +85,50 @@ Sunday                   119504 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Terraform                1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-YAML                     1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-JSON                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Other                    2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+YAML                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Terraform                1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+JSON                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 8 mins        ███████████████████░░░░░░   75.28 % 
-Bash                     1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  6 hrs 35 mins       ███████████████████░░░░░░   76.81 % 
+Bash                     1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-CMACGM                   2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.66 % 
-OA                       1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Overrun                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-infra                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-autom                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+CMACGM                   2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+OA                       1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+autom                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Overrun                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+infra                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 
 💻 Operating System: 
-WSL                      4 hrs 48 mins       ██████████████████░░░░░░░   70.47 % 
-Linux                    2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+WSL                      6 hrs 16 mins       ██████████████████░░░░░░░   72.99 % 
+Linux                    2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 20 mins (19.72%)
+⏱ AI Coding Time: 1 hr 56 mins (22.61%)
 
-✍️ 204 lines written by AI, 4,142 lines written by hand (4.69% AI-written)
+✍️ 363 lines written by AI, 4,222 lines written by hand (7.92% AI-written)
 
-🔤 4,315,885 Input Tokens, 34,384 Output Tokens
+🔤 8,592,414 Input Tokens, 50,016 Output Tokens
 
-💵 $13.46 Estimated AI Cost This Week
+💵 $26.53 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 93 AI Prompts
+🧠 7 AI Sessions, 129 AI Prompts
 
-KiloCode                 204 lines           █████████████████████████   100.00 % 
+KiloCode                 363 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.69% of written lines came from AI
-📝 Concise Prompter — average 53 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🔍 Hands-On Reviewer — 97.95% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 7.92% of written lines came from AI
+📝 Concise Prompter — average 57 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🔍 Hands-On Reviewer — 96.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +144,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 20:03:08 UTC
+ Last Updated on 04/10/2026 20:26:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
