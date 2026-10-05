@@ -42,13 +42,13 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 <details>
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2052%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 730.5 kB Used in GitHub's Storage 
+> 📦 730.8 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2026
  > 
@@ -61,21 +61,21 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                97780 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-🌆 Daytime                344932 commits      ██████████░░░░░░░░░░░░░░░   39.76 % 
-🌃 Evening                393192 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
-🌙 Night                  31738 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+🌞 Morning                97829 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+🌆 Daytime                344988 commits      ██████████░░░░░░░░░░░░░░░   39.75 % 
+🌃 Evening                393331 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
+🌙 Night                  31752 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   131162 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  267631 commits      ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Wednesday                113278 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Thursday                 91289 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   75339 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Saturday                 69439 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Sunday                   119504 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Monday                   131220 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  267749 commits      ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Wednesday                113291 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Thursday                 91330 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Friday                   75372 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Saturday                 69472 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Sunday                   119466 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 ```
 
 
@@ -85,33 +85,33 @@ Sunday                   119504 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-YAML                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Terraform                1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-JSON                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Other                    2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+YAML                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+Terraform                1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+JSON                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 35 mins       ███████████████████░░░░░░   76.81 % 
-Bash                     1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  6 hrs 35 mins       ███████████████████░░░░░░   76.38 % 
+Bash                     2 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-CMACGM                   2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-OA                       1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-autom                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Overrun                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-infra                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+CMACGM                   2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+OA                       1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Overrun                  1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+autom                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+infra                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 💻 Operating System: 
-WSL                      6 hrs 16 mins       ██████████████████░░░░░░░   72.99 % 
-Linux                    2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+WSL                      6 hrs 16 mins       ██████████████████░░░░░░░   72.58 % 
+Linux                    2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 56 mins (22.61%)
+⏱ AI Coding Time: 1 hr 56 mins (22.48%)
 
 ✍️ 363 lines written by AI, 4,222 lines written by hand (7.92% AI-written)
 
@@ -134,17 +134,17 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████████░░░░░░░░░░░░░░   43.18 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JSON                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   19 repos            ███████████░░░░░░░░░░░░░░   44.19 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+JSON                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
 
 
- Last Updated on 04/10/2026 20:26:55 UTC
+ Last Updated on 05/10/2026 23:41:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
