@@ -48,7 +48,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 732.0 kB Used in GitHub's Storage 
+> 📦 732.2 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2026
  > 
@@ -85,36 +85,35 @@ Sunday                   119979 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-YAML                     3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.16 % 
-Terraform                1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Docker                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+YAML                     3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Other                    3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Terraform                3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Docker                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 4 mins        ██████████████████████░░░   89.34 % 
-Bash                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-KiloCode                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  9 hrs 35 mins       ███████████████████░░░░░░   74.98 % 
+Bash                     2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+KiloCode                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🐱‍💻 Projects: 
-OA                       3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.62 % 
-CMACGM                   2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
-homelab                  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-eve-ng-ansible-collection29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-autom                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+homelab                  4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.88 % 
+OA                       3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+CMACGM                   2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+eve-ng-ansible-collection29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+autom                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-WSL                      7 hrs 14 mins       ██████████████████████░░░   87.03 % 
-Linux                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+WSL                      7 hrs 14 mins       ███████████████░░░░░░░░░░   59.91 % 
+Linux                    4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (17.62%)
+⏱ AI Coding Time: 1 hr 27 mins (12.13%)
 
-✍️ 776 lines written by AI, 419 lines written by hand (64.94% AI-written)
+✍️ 776 lines written by AI, 736 lines written by hand (51.32% AI-written)
 
 🔤 5,749,123 Input Tokens, 45,639 Output Tokens
 
@@ -127,10 +126,10 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.94% of written lines came from AI
+⚖️ Balanced with AI — 51.32% of written lines came from AI
 📝 Concise Prompter — average 75 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 48.02% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +145,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 20:54:05 UTC
+ Last Updated on 13/10/2026 00:19:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
