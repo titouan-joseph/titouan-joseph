@@ -48,7 +48,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 732.9 kB Used in GitHub's Storage 
+> 📦 733.1 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2026
  > 
@@ -61,21 +61,21 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                98270 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-🌆 Daytime                346347 commits      ██████████░░░░░░░░░░░░░░░   39.74 % 
-🌃 Evening                394942 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
-🌙 Night                  31878 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+🌞 Morning                98319 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+🌆 Daytime                346498 commits      ██████████░░░░░░░░░░░░░░░   39.74 % 
+🌃 Evening                395121 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
+🌙 Night                  31892 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   131742 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  268811 commits      ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Wednesday                113768 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Thursday                 91699 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   75669 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Saturday                 69769 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Sunday                   119979 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Monday                   131800 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  268929 commits      ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Wednesday                113821 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 91740 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Friday                   75702 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Saturday                 69802 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Sunday                   120036 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
 
 
@@ -85,36 +85,36 @@ Sunday                   119979 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Terraform                8 hrs 54 mins       ████████████░░░░░░░░░░░░░   47.60 % 
-Other                    4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-YAML                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Docker                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Terraform                8 hrs 54 mins       █████████████░░░░░░░░░░░░   51.72 % 
+Other                    4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+YAML                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Docker                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Smarty                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 35 mins      ███████████████████░░░░░░   75.10 % 
-Bash                     4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-KiloCode                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+VS Code                  13 hrs 5 mins       ██████████████████░░░░░░░   73.03 % 
+Bash                     4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+KiloCode                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-CMACGM                   8 hrs 8 mins        ███████████░░░░░░░░░░░░░░   43.48 % 
-homelab                  6 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.43 % 
-OA                       2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-autom                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Terminal                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+CMACGM                   8 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.24 % 
+homelab                  6 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.58 % 
+OA                       1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+autom                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Terminal                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-WSL                      11 hrs 22 mins      ███████████████░░░░░░░░░░   60.79 % 
-Linux                    7 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+WSL                      9 hrs 53 mins       ██████████████░░░░░░░░░░░   57.40 % 
+Linux                    7 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 59 mins (10.66%)
+⏱ AI Coding Time: 1 hr 59 mins (11.58%)
 
-✍️ 960 lines written by AI, 1,500 lines written by hand (39.02% AI-written)
+✍️ 960 lines written by AI, 1,385 lines written by hand (40.94% AI-written)
 
 🔤 6,950,185 Input Tokens, 50,691 Output Tokens
 
@@ -127,10 +127,10 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.02% of written lines came from AI
+⚖️ Balanced with AI — 40.94% of written lines came from AI
 📝 Concise Prompter — average 67 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 75.34% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 73.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 20:41:14 UTC
+ Last Updated on 16/10/2026 19:55:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
