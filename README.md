@@ -48,7 +48,7 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 
 **🐱 My GitHub Data** 
 
-> 📦 734.8 kB Used in GitHub's Storage 
+> 📦 735.0 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2026
  > 
@@ -61,21 +61,21 @@ I'm working for [CNS Communications](https://www.cns-com.com/) as consulting eng
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                98809 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-🌆 Daytime                348008 commits      ██████████░░░░░░░░░░░░░░░   39.74 % 
-🌃 Evening                396911 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
-🌙 Night                  32032 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+🌞 Morning                98858 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+🌆 Daytime                348159 commits      ██████████░░░░░░░░░░░░░░░   39.74 % 
+🌃 Evening                397090 commits      ███████████░░░░░░░░░░░░░░   45.32 % 
+🌙 Night                  32046 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   132380 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  270109 commits      ████████░░░░░░░░░░░░░░░░░   30.84 % 
-Wednesday                114351 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Thursday                 92150 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Friday                   76032 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Saturday                 70132 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Sunday                   120606 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Monday                   132438 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  270227 commits      ████████░░░░░░░░░░░░░░░░░   30.84 % 
+Wednesday                114404 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 92191 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Friday                   76065 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Saturday                 70165 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Sunday                   120663 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
 
 
@@ -85,36 +85,35 @@ Sunday                   120606 commits      ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-YAML                     2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-Other                    2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-Shell                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Terraform                59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+YAML                     1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   31.06 % 
+Other                    1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+Terraform                58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Shell                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs               ████████████████░░░░░░░░░   63.85 % 
-Bash                     2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.19 % 
-KiloCode                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+VS Code                  4 hrs 35 mins       ███████████████████░░░░░░   74.75 % 
+Bash                     1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+KiloCode                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🐱‍💻 Projects: 
-homelab                  2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.48 % 
-OA                       1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-CMACGM                   1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Terminal                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-keymaker                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+homelab                  2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.19 % 
+OA                       1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+CMACGM                   1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Terminal                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+infra                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 💻 Operating System: 
-Linux                    4 hrs 16 mins       ██████████████░░░░░░░░░░░   54.39 % 
-WSL                      3 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.61 % 
+WSL                      3 hrs 34 mins       ███████████████░░░░░░░░░░   58.30 % 
+Linux                    2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (9.14%)
+⏱ AI Coding Time: 43 mins (11.69%)
 
-✍️ 543 lines written by AI, 953 lines written by hand (36.3% AI-written)
+✍️ 543 lines written by AI, 934 lines written by hand (36.76% AI-written)
 
 🔤 2,510,533 Input Tokens, 20,083 Output Tokens
 
@@ -127,10 +126,10 @@ Vscode                   98 lines            █████░░░░░░�
 KiloCode                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.3% of written lines came from AI
+⚖️ Balanced with AI — 36.76% of written lines came from AI
 📝 Concise Prompter — average 92 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 76.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 76.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +145,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 19:16:45 UTC
+ Last Updated on 26/10/2026 21:56:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
